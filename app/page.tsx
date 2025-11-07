@@ -35,8 +35,8 @@ export default function CollegePage() {
     { name: "Computer Science & Engineering", icon: "💻", description: "Advanced computing and software development" },
     { name: "Mechanical Engineering", icon: "⚙️", description: "Design and manufacturing systems" },
     { name: "Civil Engineering", icon: "🏗️", description: "Infrastructure and construction" },
-    { name: "Electronics & Telecommunication", icon: "📡", description: "Communication and electronics systems" },
-    { name: "Information Technology", icon: "🌐", description: "IT solutions and digital innovation" },
+    { name: "AI-ML", icon: "📡", description: "Advanced AI/ML technologies, neural networks, and intelligent systems" },
+    { name: "Data-Science", icon: "🌐", description: "Big data analytics, statistical modeling, and data-driven insights" },
     { name: "Electrical Engineering", icon: "⚡", description: "Power systems and electrical design" },
   ]
 
